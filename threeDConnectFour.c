@@ -689,3 +689,10 @@ int main() {
 
     return 0;
 }
+
+// Remove or comment out the old console-based game loop
+/*
+void playGame3D() {
+    // ... (old console game loop code) ...
+}
+*/
